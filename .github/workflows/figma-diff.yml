@@ -1,0 +1,68 @@
+name: Figma Design QA
+
+# Runs the Figma <-> React comparison pipeline on every PR/push so reviewers
+# get a downloadable annotated screenshot + JSON report without anyone
+# having to run the scripts locally.
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+jobs:
+  figma-diff:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browser (Chromium only)
+        run: npx playwright install --with-deps chromium
+
+      - name: Start Vite dev server
+        run: npm run dev -- --port 5173 &
+
+      - name: Wait for dev server to be ready
+        run: npx wait-on http://localhost:5173 --timeout 60000
+
+      - name: Run Figma comparison
+        run: npm run figma:compare
+
+      - name: Generate annotated screenshots
+        run: npm run figma:highlight
+
+      - name: Upload QA report and annotated screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: figma-diff-report
+          path: |
+            report.json
+            *-annotated.png
+            *-react.png
+          retention-days: 14
+
+      # Optional strict gate: uncomment to fail the build when the report
+      # contains any elements missing from the DOM entirely (the most
+      # severe category). Size/style/image/spelling issues stay
+      # informational-only by default so the pipeline doesn't block PRs
+      # on cosmetic drift.
+      # - name: Fail if any element is missing from the DOM
+      #   run: |
+      #     node -e "
+      #       const r = require('./report.json');
+      #       if (r.summary.missing > 0) {
+      #         console.error(\`\${r.summary.missing} element(s) missing from the DOM\`);
+      #         process.exit(1);
+      #       }
+      #     "

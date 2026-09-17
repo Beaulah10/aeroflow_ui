@@ -1,0 +1,2247 @@
+{
+  "summary": {
+    "total": 131,
+    "found": 126,
+    "missing": 0,
+    "sizeMismatch": 1,
+    "styleMismatch": 0,
+    "imageMissing": 4,
+    "spellingIssue": 0,
+    "mismatch": 0,
+    "duplicate": 0,
+    "notVisible": 0
+  },
+  "results": [
+    {
+      "page": "flight-search",
+      "id": "flight-search",
+      "status": "found",
+      "expectedWidth": 1440,
+      "actualWidth": 1440,
+      "expectedHeight": 1136,
+      "actualHeight": 1136,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 1136
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "navigation-header",
+      "status": "found",
+      "expectedWidth": 1440,
+      "actualWidth": 1440,
+      "expectedHeight": 72,
+      "actualHeight": 72,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 72
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "brand",
+      "status": "found",
+      "expectedWidth": 131,
+      "actualWidth": 131,
+      "expectedHeight": 32,
+      "actualHeight": 32,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 40,
+        "y": 19.5,
+        "width": 131,
+        "height": 32
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "logo-mark",
+      "status": "found",
+      "expectedWidth": 32,
+      "actualWidth": 32,
+      "expectedHeight": 32,
+      "actualHeight": 32,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 40,
+        "y": 19.5,
+        "width": 32,
+        "height": 32
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "nav-links",
+      "status": "found",
+      "expectedWidth": 417,
+      "actualWidth": 417,
+      "expectedHeight": 26,
+      "actualHeight": 26,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 472,
+        "y": 22.5,
+        "width": 417,
+        "height": 26
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "nav-item-Book",
+      "status": "found",
+      "expectedWidth": 38,
+      "actualWidth": 38,
+      "expectedHeight": 26,
+      "actualHeight": 26,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 472,
+        "y": 22.5,
+        "width": 38,
+        "height": 26
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "nav-item-Manage",
+      "status": "found",
+      "expectedWidth": 57,
+      "actualWidth": 57,
+      "expectedHeight": 20,
+      "actualHeight": 20,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 542,
+        "y": 25.5,
+        "width": 57,
+        "height": 20
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "nav-item-Flight Status",
+      "status": "found",
+      "expectedWidth": 90,
+      "actualWidth": 90,
+      "expectedHeight": 20,
+      "actualHeight": 20,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 631,
+        "y": 25.5,
+        "width": 90,
+        "height": 20
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "nav-item-Explore",
+      "status": "found",
+      "expectedWidth": 53,
+      "actualWidth": 53,
+      "expectedHeight": 20,
+      "actualHeight": 20,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 753,
+        "y": 25.5,
+        "width": 53,
+        "height": 20
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "nav-item-Loyalty",
+      "status": "found",
+      "expectedWidth": 51,
+      "actualWidth": 51,
+      "expectedHeight": 20,
+      "actualHeight": 20,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 838,
+        "y": 25.5,
+        "width": 51,
+        "height": 20
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "user-actions",
+      "status": "found",
+      "expectedWidth": 210,
+      "actualWidth": 210,
+      "expectedHeight": 36,
+      "actualHeight": 36,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1190,
+        "y": 17.5,
+        "width": 210,
+        "height": 36
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "currency-selector",
+      "status": "found",
+      "expectedWidth": 45,
+      "actualWidth": 45,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1190,
+        "y": 26.5,
+        "width": 45,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "support-btn",
+      "status": "found",
+      "expectedWidth": 36,
+      "actualWidth": 36,
+      "expectedHeight": 36,
+      "actualHeight": 36,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1251,
+        "y": 17.5,
+        "width": 36,
+        "height": 36
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "profile-trigger",
+      "status": "found",
+      "expectedWidth": 97,
+      "actualWidth": 97,
+      "expectedHeight": 36,
+      "actualHeight": 36,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1303,
+        "y": 17.5,
+        "width": 97,
+        "height": 36
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "hero-section",
+      "status": "found",
+      "expectedWidth": 1440,
+      "actualWidth": 1440,
+      "expectedHeight": 500,
+      "actualHeight": 500,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 0,
+        "y": 72,
+        "width": 1440,
+        "height": 500
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "hero-text",
+      "status": "found",
+      "expectedWidth": 1200,
+      "actualWidth": 1200,
+      "expectedHeight": 95,
+      "actualHeight": 95,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 120,
+        "y": 115,
+        "width": 1200,
+        "height": 95
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "search-board",
+      "status": "found",
+      "expectedWidth": 1120,
+      "actualWidth": 1120,
+      "expectedHeight": 287,
+      "actualHeight": 287,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 160,
+        "y": 242,
+        "width": 1120,
+        "height": 287
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "options-bar",
+      "status": "found",
+      "expectedWidth": 1056,
+      "actualWidth": 1058,
+      "expectedHeight": 42,
+      "actualHeight": 42,
+      "widthDiff": 2,
+      "heightDiff": 0,
+      "box": {
+        "x": 192,
+        "y": 274,
+        "width": 1058,
+        "height": 42
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "trip-types",
+      "status": "found",
+      "expectedWidth": 316,
+      "actualWidth": 316,
+      "expectedHeight": 42,
+      "actualHeight": 42,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 192,
+        "y": 274,
+        "width": 316,
+        "height": 42
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "Round-trip",
+      "status": "found",
+      "expectedWidth": 105,
+      "actualWidth": 105,
+      "expectedHeight": 34,
+      "actualHeight": 34,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 196,
+        "y": 278,
+        "width": 105,
+        "height": 34
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "Round-trip",
+      "status": "size-mismatch",
+      "expectedWidth": 73,
+      "actualWidth": 50,
+      "expectedHeight": 18,
+      "actualHeight": 37,
+      "widthDiff": 23,
+      "heightDiff": 19,
+      "box": {
+        "x": 223.59375,
+        "y": 277,
+        "width": 49.8125,
+        "height": 37
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "One-way",
+      "status": "found",
+      "expectedWidth": 91,
+      "actualWidth": 91,
+      "expectedHeight": 34,
+      "actualHeight": 34,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 305,
+        "y": 278,
+        "width": 91,
+        "height": 34
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "One-way",
+      "status": "found",
+      "expectedWidth": 59,
+      "actualWidth": 59,
+      "expectedHeight": 18,
+      "actualHeight": 19,
+      "widthDiff": 0,
+      "heightDiff": 1,
+      "box": {
+        "x": 321.203125,
+        "y": 285,
+        "width": 58.578125,
+        "height": 19
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "Multi-city",
+      "status": "found",
+      "expectedWidth": 96,
+      "actualWidth": 96,
+      "expectedHeight": 34,
+      "actualHeight": 34,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 400,
+        "y": 278,
+        "width": 96,
+        "height": 34
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "Multi-city",
+      "status": "found",
+      "expectedWidth": 64,
+      "actualWidth": 64,
+      "expectedHeight": 18,
+      "actualHeight": 19,
+      "widthDiff": 0,
+      "heightDiff": 1,
+      "box": {
+        "x": 416.234375,
+        "y": 285,
+        "width": 63.53125,
+        "height": 19
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "dropdown-selectors",
+      "status": "found",
+      "expectedWidth": 279,
+      "actualWidth": 279,
+      "expectedHeight": 38,
+      "actualHeight": 38,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 971,
+        "y": 276,
+        "width": 279,
+        "height": 38
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "passengers-dropdown",
+      "status": "found",
+      "expectedWidth": 155,
+      "actualWidth": 155,
+      "expectedHeight": 38,
+      "actualHeight": 38,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 971,
+        "y": 276,
+        "width": 155,
+        "height": 38
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "class-dropdown",
+      "status": "found",
+      "expectedWidth": 112,
+      "actualWidth": 112,
+      "expectedHeight": 38,
+      "actualHeight": 38,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1138,
+        "y": 276,
+        "width": 112,
+        "height": 38
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "fields-row",
+      "status": "found",
+      "expectedWidth": 1056,
+      "actualWidth": 1058,
+      "expectedHeight": 80,
+      "actualHeight": 80,
+      "widthDiff": 2,
+      "heightDiff": 0,
+      "box": {
+        "x": 192,
+        "y": 340,
+        "width": 1058,
+        "height": 80
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "airports-group",
+      "status": "found",
+      "expectedWidth": 520,
+      "actualWidth": 522,
+      "expectedHeight": 80,
+      "actualHeight": 80,
+      "widthDiff": 2,
+      "heightDiff": 0,
+      "box": {
+        "x": 192,
+        "y": 340,
+        "width": 522,
+        "height": 80
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "airport-selector-0",
+      "status": "found",
+      "expectedWidth": 260,
+      "actualWidth": 260,
+      "expectedHeight": 80,
+      "actualHeight": 80,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 193,
+        "y": 341,
+        "width": 260,
+        "height": 80
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "airport-selector-1",
+      "status": "found",
+      "expectedWidth": 260,
+      "actualWidth": 260,
+      "expectedHeight": 80,
+      "actualHeight": 80,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 453,
+        "y": 341,
+        "width": 260,
+        "height": 80
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "dates-group",
+      "status": "found",
+      "expectedWidth": 520,
+      "actualWidth": 520,
+      "expectedHeight": 77,
+      "actualHeight": 77,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 730,
+        "y": 340,
+        "width": 520,
+        "height": 77
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "date-selector-0",
+      "status": "found",
+      "expectedWidth": 254,
+      "actualWidth": 254,
+      "expectedHeight": 77,
+      "actualHeight": 77,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 730,
+        "y": 340,
+        "width": 254,
+        "height": 77
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "date-selector-1",
+      "status": "found",
+      "expectedWidth": 254,
+      "actualWidth": 254,
+      "expectedHeight": 77,
+      "actualHeight": 77,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 996,
+        "y": 340,
+        "width": 254,
+        "height": 77
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "action-row",
+      "status": "found",
+      "expectedWidth": 1056,
+      "actualWidth": 1058,
+      "expectedHeight": 53,
+      "actualHeight": 53,
+      "widthDiff": 2,
+      "heightDiff": 0,
+      "box": {
+        "x": 192,
+        "y": 444,
+        "width": 1058,
+        "height": 53
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "promo-checkbox",
+      "status": "found",
+      "expectedWidth": 313,
+      "actualWidth": 313,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 192,
+        "y": 461.5,
+        "width": 313,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "search-cta",
+      "status": "found",
+      "expectedWidth": 215,
+      "actualWidth": 215,
+      "expectedHeight": 53,
+      "actualHeight": 53,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1035,
+        "y": 444,
+        "width": 215,
+        "height": 53
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "search-insights",
+      "status": "found",
+      "expectedWidth": 1440,
+      "actualWidth": 1440,
+      "expectedHeight": 564,
+      "actualHeight": 564,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 0,
+        "y": 572,
+        "width": 1440,
+        "height": 564
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "recent-searches",
+      "status": "found",
+      "expectedWidth": 1200,
+      "actualWidth": 1200,
+      "expectedHeight": 112,
+      "actualHeight": 112,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 120,
+        "y": 612,
+        "width": 1200,
+        "height": 112
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "recent-items",
+      "status": "found",
+      "expectedWidth": 1200,
+      "actualWidth": 1200,
+      "expectedHeight": 71,
+      "actualHeight": 71,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 120,
+        "y": 652,
+        "width": 1200,
+        "height": 71
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "recent-card-0",
+      "status": "found",
+      "expectedWidth": 389,
+      "actualWidth": 389,
+      "expectedHeight": 71,
+      "actualHeight": 71,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 120,
+        "y": 652,
+        "width": 389.328125,
+        "height": 71
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "recent-card-1",
+      "status": "found",
+      "expectedWidth": 389,
+      "actualWidth": 389,
+      "expectedHeight": 71,
+      "actualHeight": 71,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 525.328125,
+        "y": 652,
+        "width": 389.328125,
+        "height": 71
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "recent-card-2",
+      "status": "found",
+      "expectedWidth": 389,
+      "actualWidth": 389,
+      "expectedHeight": 71,
+      "actualHeight": 71,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 930.65625,
+        "y": 652,
+        "width": 389.34375,
+        "height": 71
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "popular-destinations",
+      "status": "found",
+      "expectedWidth": 1200,
+      "actualWidth": 1200,
+      "expectedHeight": 292,
+      "actualHeight": 292,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 120,
+        "y": 784,
+        "width": 1200,
+        "height": 292
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "grid-destinations",
+      "status": "found",
+      "expectedWidth": 1200,
+      "actualWidth": 1200,
+      "expectedHeight": 251,
+      "actualHeight": 251,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 120,
+        "y": 824,
+        "width": 1200,
+        "height": 251
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "dest-image",
+      "status": "image-missing",
+      "expectedWidth": 282,
+      "actualWidth": 280,
+      "expectedHeight": 180,
+      "actualHeight": 180,
+      "widthDiff": 2,
+      "heightDiff": 0,
+      "box": {
+        "x": 121,
+        "y": 825,
+        "width": 280,
+        "height": 180
+      },
+      "imageMissing": true
+    },
+    {
+      "page": "flight-search",
+      "id": "dest-info",
+      "status": "found",
+      "expectedWidth": 282,
+      "actualWidth": 282,
+      "expectedHeight": 71,
+      "actualHeight": 71,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 121,
+        "y": 1005,
+        "width": 282,
+        "height": 71
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "text",
+      "status": "found",
+      "expectedWidth": 41,
+      "actualWidth": 41,
+      "expectedHeight": 39,
+      "actualHeight": 39,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 137,
+        "y": 1021,
+        "width": 41,
+        "height": 39
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "price-badge",
+      "status": "found",
+      "expectedWidth": 68,
+      "actualWidth": 68,
+      "expectedHeight": 36,
+      "actualHeight": 36,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 319,
+        "y": 1024,
+        "width": 68,
+        "height": 36
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "dest-image",
+      "status": "image-missing",
+      "expectedWidth": 282,
+      "actualWidth": 280,
+      "expectedHeight": 180,
+      "actualHeight": 180,
+      "widthDiff": 2,
+      "heightDiff": 0,
+      "box": {
+        "x": 427,
+        "y": 825,
+        "width": 280,
+        "height": 180
+      },
+      "imageMissing": true
+    },
+    {
+      "page": "flight-search",
+      "id": "dest-info",
+      "status": "found",
+      "expectedWidth": 282,
+      "actualWidth": 282,
+      "expectedHeight": 71,
+      "actualHeight": 71,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 427,
+        "y": 1005,
+        "width": 282,
+        "height": 71
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "text",
+      "status": "found",
+      "expectedWidth": 44,
+      "actualWidth": 44,
+      "expectedHeight": 39,
+      "actualHeight": 39,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 443,
+        "y": 1021,
+        "width": 44,
+        "height": 39
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "price-badge",
+      "status": "found",
+      "expectedWidth": 68,
+      "actualWidth": 68,
+      "expectedHeight": 36,
+      "actualHeight": 36,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 625,
+        "y": 1024,
+        "width": 68,
+        "height": 36
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "dest-image",
+      "status": "image-missing",
+      "expectedWidth": 282,
+      "actualWidth": 280,
+      "expectedHeight": 180,
+      "actualHeight": 180,
+      "widthDiff": 2,
+      "heightDiff": 0,
+      "box": {
+        "x": 733,
+        "y": 825,
+        "width": 280,
+        "height": 180
+      },
+      "imageMissing": true
+    },
+    {
+      "page": "flight-search",
+      "id": "dest-info",
+      "status": "found",
+      "expectedWidth": 282,
+      "actualWidth": 282,
+      "expectedHeight": 71,
+      "actualHeight": 71,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 733,
+        "y": 1005,
+        "width": 282,
+        "height": 71
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "text",
+      "status": "found",
+      "expectedWidth": 71,
+      "actualWidth": 71,
+      "expectedHeight": 39,
+      "actualHeight": 39,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 749,
+        "y": 1021,
+        "width": 71,
+        "height": 39
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "price-badge",
+      "status": "found",
+      "expectedWidth": 68,
+      "actualWidth": 68,
+      "expectedHeight": 36,
+      "actualHeight": 36,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 931,
+        "y": 1024,
+        "width": 68,
+        "height": 36
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "dest-image",
+      "status": "image-missing",
+      "expectedWidth": 282,
+      "actualWidth": 280,
+      "expectedHeight": 180,
+      "actualHeight": 180,
+      "widthDiff": 2,
+      "heightDiff": 0,
+      "box": {
+        "x": 1039,
+        "y": 825,
+        "width": 280,
+        "height": 180
+      },
+      "imageMissing": true
+    },
+    {
+      "page": "flight-search",
+      "id": "dest-info",
+      "status": "found",
+      "expectedWidth": 282,
+      "actualWidth": 282,
+      "expectedHeight": 71,
+      "actualHeight": 71,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1039,
+        "y": 1005,
+        "width": 282,
+        "height": 71
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "text",
+      "status": "found",
+      "expectedWidth": 42,
+      "actualWidth": 42,
+      "expectedHeight": 39,
+      "actualHeight": 39,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1055,
+        "y": 1021,
+        "width": 42,
+        "height": 39
+      }
+    },
+    {
+      "page": "flight-search",
+      "id": "price-badge",
+      "status": "found",
+      "expectedWidth": 68,
+      "actualWidth": 68,
+      "expectedHeight": 36,
+      "actualHeight": 36,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1237,
+        "y": 1024,
+        "width": 68,
+        "height": 36
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "flight-selection",
+      "status": "found",
+      "expectedWidth": 1440,
+      "actualWidth": 1440,
+      "expectedHeight": 1024,
+      "actualHeight": 1024,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 1024
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "navigation-header",
+      "status": "found",
+      "expectedWidth": 1440,
+      "actualWidth": 1440,
+      "expectedHeight": 72,
+      "actualHeight": 72,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 72
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "brand",
+      "status": "found",
+      "expectedWidth": 131,
+      "actualWidth": 131,
+      "expectedHeight": 32,
+      "actualHeight": 32,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 40,
+        "y": 19.5,
+        "width": 131,
+        "height": 32
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "logo-mark",
+      "status": "found",
+      "expectedWidth": 32,
+      "actualWidth": 32,
+      "expectedHeight": 32,
+      "actualHeight": 32,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 40,
+        "y": 19.5,
+        "width": 32,
+        "height": 32
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "nav-links",
+      "status": "found",
+      "expectedWidth": 417,
+      "actualWidth": 417,
+      "expectedHeight": 26,
+      "actualHeight": 26,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 472,
+        "y": 22.5,
+        "width": 417,
+        "height": 26
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "nav-item-Book",
+      "status": "found",
+      "expectedWidth": 38,
+      "actualWidth": 38,
+      "expectedHeight": 26,
+      "actualHeight": 26,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 472,
+        "y": 22.5,
+        "width": 38,
+        "height": 26
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "nav-item-Manage",
+      "status": "found",
+      "expectedWidth": 57,
+      "actualWidth": 57,
+      "expectedHeight": 20,
+      "actualHeight": 20,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 542,
+        "y": 25.5,
+        "width": 57,
+        "height": 20
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "nav-item-Flight Status",
+      "status": "found",
+      "expectedWidth": 90,
+      "actualWidth": 90,
+      "expectedHeight": 20,
+      "actualHeight": 20,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 631,
+        "y": 25.5,
+        "width": 90,
+        "height": 20
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "nav-item-Explore",
+      "status": "found",
+      "expectedWidth": 53,
+      "actualWidth": 53,
+      "expectedHeight": 20,
+      "actualHeight": 20,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 753,
+        "y": 25.5,
+        "width": 53,
+        "height": 20
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "nav-item-Loyalty",
+      "status": "found",
+      "expectedWidth": 51,
+      "actualWidth": 51,
+      "expectedHeight": 20,
+      "actualHeight": 20,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 838,
+        "y": 25.5,
+        "width": 51,
+        "height": 20
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "user-actions",
+      "status": "found",
+      "expectedWidth": 210,
+      "actualWidth": 210,
+      "expectedHeight": 36,
+      "actualHeight": 36,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1190,
+        "y": 17.5,
+        "width": 210,
+        "height": 36
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "currency-selector",
+      "status": "found",
+      "expectedWidth": 45,
+      "actualWidth": 45,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1190,
+        "y": 26.5,
+        "width": 45,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "support-btn",
+      "status": "found",
+      "expectedWidth": 36,
+      "actualWidth": 36,
+      "expectedHeight": 36,
+      "actualHeight": 36,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1251,
+        "y": 17.5,
+        "width": 36,
+        "height": 36
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "profile-trigger",
+      "status": "found",
+      "expectedWidth": 97,
+      "actualWidth": 97,
+      "expectedHeight": 36,
+      "actualHeight": 36,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1303,
+        "y": 17.5,
+        "width": 97,
+        "height": 36
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "search-summary-bar",
+      "status": "found",
+      "expectedWidth": 1440,
+      "actualWidth": 1440,
+      "expectedHeight": 66,
+      "actualHeight": 66,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 0,
+        "y": 72,
+        "width": 1440,
+        "height": 66
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "summary-left",
+      "status": "found",
+      "expectedWidth": 608,
+      "actualWidth": 608,
+      "expectedHeight": 23,
+      "actualHeight": 23,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 40,
+        "y": 93,
+        "width": 608,
+        "height": 23
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "route-chips",
+      "status": "found",
+      "expectedWidth": 267,
+      "actualWidth": 267,
+      "expectedHeight": 23,
+      "actualHeight": 23,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 40,
+        "y": 93,
+        "width": 267,
+        "height": 23
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "search-meta",
+      "status": "found",
+      "expectedWidth": 292,
+      "actualWidth": 292,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 348,
+        "y": 95.5,
+        "width": 292,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "meta-item-0",
+      "status": "found",
+      "expectedWidth": 115,
+      "actualWidth": 115,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 348,
+        "y": 95.5,
+        "width": 115,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "meta-item-1",
+      "status": "found",
+      "expectedWidth": 161,
+      "actualWidth": 161,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 479,
+        "y": 95.5,
+        "width": 161,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "edit-search",
+      "status": "found",
+      "expectedWidth": 129,
+      "actualWidth": 129,
+      "expectedHeight": 34,
+      "actualHeight": 34,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 1271,
+        "y": 87.5,
+        "width": 129,
+        "height": 34
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "main-results-layout",
+      "status": "found",
+      "expectedWidth": 1440,
+      "actualWidth": 1440,
+      "expectedHeight": 797,
+      "actualHeight": 797,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 0,
+        "y": 138,
+        "width": 1440,
+        "height": 797
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filters-sidebar",
+      "status": "found",
+      "expectedWidth": 280,
+      "actualWidth": 280,
+      "expectedHeight": 680,
+      "actualHeight": 680,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 40,
+        "y": 170,
+        "width": 280,
+        "height": 680
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "divider-0",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 0,
+      "actualHeight": 1,
+      "widthDiff": 0,
+      "heightDiff": 1,
+      "box": {
+        "x": 64,
+        "y": 259.59375,
+        "width": 232,
+        "height": 1
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-group-0",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 104,
+      "actualHeight": 104,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 259.59375,
+        "width": 232,
+        "height": 104
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-options",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 74,
+      "actualHeight": 74,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 290.59375,
+        "width": 232,
+        "height": 74
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-checkbox-0-0",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 290.59375,
+        "width": 232,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-checkbox-0-1",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 318.59375,
+        "width": 232,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-checkbox-0-2",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 346.59375,
+        "width": 232,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "divider-1",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 0,
+      "actualHeight": 1,
+      "widthDiff": 0,
+      "heightDiff": 1,
+      "box": {
+        "x": 64,
+        "y": 405.1875,
+        "width": 232,
+        "height": 1
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-group-1",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 132,
+      "actualHeight": 132,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 405.1875,
+        "width": 232,
+        "height": 132
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-options",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 102,
+      "actualHeight": 102,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 436.1875,
+        "width": 232,
+        "height": 102
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-checkbox-1-0",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 436.1875,
+        "width": 232,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-checkbox-1-1",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 464.1875,
+        "width": 232,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-checkbox-1-2",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 492.1875,
+        "width": 232,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-checkbox-1-3",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 520.1875,
+        "width": 232,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "divider-2",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 0,
+      "actualHeight": 1,
+      "widthDiff": 0,
+      "heightDiff": 1,
+      "box": {
+        "x": 64,
+        "y": 578.78125,
+        "width": 232,
+        "height": 1
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-group-2",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 80,
+      "actualHeight": 80,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 578.78125,
+        "width": 232,
+        "height": 80
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-options",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 50,
+      "actualHeight": 50,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 609.78125,
+        "width": 232,
+        "height": 50
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "price-range",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 50,
+      "actualHeight": 50,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 609.78125,
+        "width": 232,
+        "height": 50
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "divider-3",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 0,
+      "actualHeight": 1,
+      "widthDiff": 0,
+      "heightDiff": 1,
+      "box": {
+        "x": 64,
+        "y": 700.390625,
+        "width": 232,
+        "height": 1
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-group-3",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 104,
+      "actualHeight": 104,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 700.390625,
+        "width": 232,
+        "height": 104
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-options",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 74,
+      "actualHeight": 74,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 731.390625,
+        "width": 232,
+        "height": 74
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-checkbox-3-0",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 731.390625,
+        "width": 232,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-checkbox-3-1",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 759.390625,
+        "width": 232,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "filter-checkbox-3-2",
+      "status": "found",
+      "expectedWidth": 232,
+      "actualWidth": 232,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 64,
+        "y": 787.390625,
+        "width": 232,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "flight-results-center",
+      "status": "found",
+      "expectedWidth": 592,
+      "actualWidth": 592,
+      "expectedHeight": 672,
+      "actualHeight": 672,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 344,
+        "y": 170,
+        "width": 592,
+        "height": 672
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "sort-dropdown",
+      "status": "found",
+      "expectedWidth": 149,
+      "actualWidth": 149,
+      "expectedHeight": 18,
+      "actualHeight": 18,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 786.640625,
+        "y": 170,
+        "width": 149.359375,
+        "height": 18
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "card-upper",
+      "status": "found",
+      "expectedWidth": 544,
+      "actualWidth": 544,
+      "expectedHeight": 32,
+      "actualHeight": 32,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 369,
+        "y": 225,
+        "width": 544,
+        "height": 32
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "itinerary-details",
+      "status": "found",
+      "expectedWidth": 544,
+      "actualWidth": 544,
+      "expectedHeight": 51,
+      "actualHeight": 51,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 369,
+        "y": 275,
+        "width": 544,
+        "height": 51
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "select-indicator",
+      "status": "found",
+      "expectedWidth": 40,
+      "actualWidth": 40,
+      "expectedHeight": 40,
+      "actualHeight": 40,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 837,
+        "y": 290,
+        "width": 40,
+        "height": 40
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "card-upper",
+      "status": "found",
+      "expectedWidth": 544,
+      "actualWidth": 544,
+      "expectedHeight": 32,
+      "actualHeight": 32,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 369,
+        "y": 383,
+        "width": 544,
+        "height": 32
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "itinerary-details",
+      "status": "found",
+      "expectedWidth": 544,
+      "actualWidth": 544,
+      "expectedHeight": 51,
+      "actualHeight": 51,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 369,
+        "y": 433,
+        "width": 544,
+        "height": 51
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "select-indicator",
+      "status": "found",
+      "expectedWidth": 40,
+      "actualWidth": 40,
+      "expectedHeight": 40,
+      "actualHeight": 40,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 837,
+        "y": 448,
+        "width": 40,
+        "height": 40
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "card-upper",
+      "status": "found",
+      "expectedWidth": 544,
+      "actualWidth": 544,
+      "expectedHeight": 32,
+      "actualHeight": 32,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 369,
+        "y": 541,
+        "width": 544,
+        "height": 32
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "itinerary-details",
+      "status": "found",
+      "expectedWidth": 544,
+      "actualWidth": 544,
+      "expectedHeight": 51,
+      "actualHeight": 51,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 369,
+        "y": 591,
+        "width": 544,
+        "height": 51
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "select-indicator",
+      "status": "found",
+      "expectedWidth": 40,
+      "actualWidth": 40,
+      "expectedHeight": 40,
+      "actualHeight": 40,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 837,
+        "y": 606,
+        "width": 40,
+        "height": 40
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "card-upper",
+      "status": "found",
+      "expectedWidth": 544,
+      "actualWidth": 544,
+      "expectedHeight": 32,
+      "actualHeight": 32,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 369,
+        "y": 699,
+        "width": 544,
+        "height": 32
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "itinerary-details",
+      "status": "found",
+      "expectedWidth": 544,
+      "actualWidth": 544,
+      "expectedHeight": 51,
+      "actualHeight": 51,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 369,
+        "y": 749,
+        "width": 544,
+        "height": 51
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "select-indicator",
+      "status": "found",
+      "expectedWidth": 40,
+      "actualWidth": 40,
+      "expectedHeight": 40,
+      "actualHeight": 40,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 837,
+        "y": 764,
+        "width": 40,
+        "height": 40
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "flight-detail-panel",
+      "status": "found",
+      "expectedWidth": 440,
+      "actualWidth": 440,
+      "expectedHeight": 717,
+      "actualHeight": 717,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 960,
+        "y": 170,
+        "width": 440,
+        "height": 717
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "panel-cover",
+      "status": "found",
+      "expectedWidth": 440,
+      "actualWidth": 440,
+      "expectedHeight": 160,
+      "actualHeight": 160,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 960,
+        "y": 170,
+        "width": 440,
+        "height": 160
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "panel-route-summary",
+      "status": "found",
+      "expectedWidth": 249,
+      "actualWidth": 249,
+      "expectedHeight": 30,
+      "actualHeight": 30,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 984,
+        "y": 250.75,
+        "width": 249,
+        "height": 30
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "panel-body",
+      "status": "found",
+      "expectedWidth": 440,
+      "actualWidth": 440,
+      "expectedHeight": 557,
+      "actualHeight": 557,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 960,
+        "y": 330,
+        "width": 440,
+        "height": 557
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "equipment-info",
+      "status": "found",
+      "expectedWidth": 392,
+      "actualWidth": 392,
+      "expectedHeight": 32,
+      "actualHeight": 32,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 984,
+        "y": 354,
+        "width": 392,
+        "height": 32
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "travel-timeline",
+      "status": "found",
+      "expectedWidth": 392,
+      "actualWidth": 392,
+      "expectedHeight": 151,
+      "actualHeight": 151,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 984,
+        "y": 427,
+        "width": 392,
+        "height": 151
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "fare-perks",
+      "status": "found",
+      "expectedWidth": 392,
+      "actualWidth": 392,
+      "expectedHeight": 94,
+      "actualHeight": 94,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 984,
+        "y": 619,
+        "width": 392,
+        "height": 94
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "checkout-box",
+      "status": "found",
+      "expectedWidth": 392,
+      "actualWidth": 392,
+      "expectedHeight": 112,
+      "actualHeight": 112,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 984,
+        "y": 754,
+        "width": 392,
+        "height": 112
+      }
+    },
+    {
+      "page": "flight-selection",
+      "id": "checkout-cta",
+      "status": "found",
+      "expectedWidth": 392,
+      "actualWidth": 392,
+      "expectedHeight": 53,
+      "actualHeight": 53,
+      "widthDiff": 0,
+      "heightDiff": 0,
+      "box": {
+        "x": 984,
+        "y": 812.5,
+        "width": 392,
+        "height": 53
+      }
+    }
+  ]
+}
